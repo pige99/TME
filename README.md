@@ -1,7 +1,7 @@
 # TME
 The source codes for TME-BNA: Temporal Motif-Preserving Network Embedding with Bicomponent Neighbor Aggregation.  
 Our implementation is based on TGNs, and the user guide is below:
-## Doenload datasets
+## Download datasets
 All datasets can be download from here: http://snap.stanford.edu/data/index.html.
 The raw file should be saved to /data folder.
 ## Preprocess
